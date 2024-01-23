@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Project-Dicoding-2</string>
+
+    <string name="judul_artikel">Judul Artikel</string>
+    <string name="isi_artikel">Isi Artikel</string>
+    <string name="artikel_lain">Artikel Lain</string>
+
+    <string-array name="data_photo">
+        <item>https://i.pinimg.com/564x/16/c7/df/16c7df84d3f6968d8661cad00a28bba1.jpg</item>
+        <item>https://i.pinimg.com/564x/fb/31/19/fb311960d2a5de3183e89f4ebed654af.jpg</item>
+        <item>https://i.pinimg.com/564x/ce/6f/5f/ce6f5feac2bccc5416b6299db0704974.jpg</item>
+        <item>https://i.pinimg.com/564x/49/2f/e5/492fe5978a7e54b5a0635c9ac17de94b.jpg</item>
+        <item>https://i.pinimg.com/564x/bd/0d/69/bd0d690edaa44ab285275ca97348bc0c.jpg</item>
+        <item>https://i.pinimg.com/564x/09/2a/d0/092ad0523e98ee6c83173a248a7793c4.jpg</item>
+        <item>https://i.pinimg.com/564x/ef/f7/ee/eff7eee63290df487ac51a1179febb72.jpg</item>
+        <item>https://i.pinimg.com/564x/20/42/d9/2042d92bc425a25b343038d6e2362432.jpg</item>
+        <item>https://i.pinimg.com/736x/82/bf/2c/82bf2cb02c5fc1ad730c5706b9bc5402.jpg</item>
+        <item>https://i.pinimg.com/736x/f8/a6/42/f8a6428cc5518c6c42f18e5e31922fea.jpg</item>
+    </string-array>
+
+    <!-- Judul Artikel -->
+    <string-array name="data_judul_artikel">
+        <item>Keajaiban Alam: Misteri Aurora Borealis</item>
+        <item>Penemuan Terbaru dalam Pengobatan Kanker</item>
+        <item>Menjelajahi Kekayaan Bawah Laut: Terumbu Karang</item>
+        <item>Revolusi Teknologi: Kecerdasan Buatan dan Masa Depan Pekerjaan</item>
+        <item>Seni Kuliner Dunia: Mengenal Hidangan Tradisional India</item>
+        <item>Mengapa Tidur Penting untuk Kesehatan Mental</item>
+        <item>Wisata Ekologis: Melindungi Keindahan Alam Saat Berlibur</item>
+        <item>Pengaruh Musik dalam Kesehatan Emosional</item>
+        <item>Peningkatan Efisiensi Energi: Teknologi Terbarukan</item>
+        <item>Perjalanan Ruang Angkasa: Masa Depan Kolonisasi Planet Mars</item>
+    </string-array>
+
+    <!-- Isi Artikel -->
+    <string-array name="data_isi_artikel">
+        <item>Aurora Borealis, juga dikenal sebagai Cahaya Utara, adalah fenomena alam yang mempesona di langit kutub. Ini disebabkan oleh interaksi partikel bermuatan dari matahari dengan atmosfer bumi, menciptakan tarian cahaya yang spektakuler.</item>
+        <item>Riset terkini dalam bidang medis telah menghasilkan terobosan baru dalam pengobatan kanker. Metode imunoterapi dan terapi gen telah menunjukkan hasil positif, membawa harapan baru bagi pasien kanker di seluruh dunia.</item>
+        <item>Terumbu karang adalah ekosistem yang luar biasa yang menyediakan rumah bagi beragam kehidupan laut. Namun, dampak perubahan iklim dan aktivitas manusia telah menempatkan terumbu karang di seluruh dunia dalam bahaya.</item>
+        <item>Kemajuan dalam kecerdasan buatan (AI) memicu perubahan besar dalam dunia pekerjaan. Sementara beberapa melihatnya sebagai ancaman terhadap pekerjaan manusia, yang lain melihat potensi kolaborasi antara manusia dan AI untuk menciptakan masa depan yang lebih efisien.</item>
+        <item>Masakan India terkenal karena keanekaragaman rasa dan rempah-rempahnya. Dari hidangan pedas seperti curry hingga manisnya mithai, masakan India mencerminkan warisan budaya yang kaya.</item>
+        <item>Tidur memiliki peran penting dalam menjaga kesehatan mental. Gangguan tidur dapat meningkatkan risiko gangguan mental, sementara tidur yang cukup dapat membantu pemulihan dan keseimbangan emosional.</item>
+        <item>Perjalanan ekologis adalah tren yang berkembang, dengan fokus pada pelestarian alam dan keberlanjutan. Cara ini dapat membantu menjaga keindahan alam bagi generasi mendatang.</item>
+        <item>Musik memiliki kekuatan untuk memengaruhi suasana hati dan emosi. Studi menunjukkan bahwa mendengarkan musik tertentu dapat merangsang produksi hormon kebahagiaan dan mengurangi tingkat stres.</item>
+        <item>Teknologi terbarukan, seperti tenaga surya dan angin, memiliki peran kunci dalam upaya global untuk meningkatkan efisiensi energi dan mengurangi jejak karbon.</item>
+        <item>Penelitian dan eksplorasi terbaru menyoroti potensi kolonisasi Mars sebagai langkah maju dalam eksplorasi ruang angkasa manusia. Tantangan teknis dan biologis masih ada, tetapi mimpi manusia untuk menetap di planet lain semakin mendekati kenyataan.</item>
+    </string-array>
+
+    <!-- About Page -->
+    <string name="about_nama">Fajri Rayrahman Harlan</string>
+    <string name="about_email">fajri.harlan.fh@gmail.com</string>
+</resources>
